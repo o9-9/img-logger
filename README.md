@@ -1,18 +1,19 @@
 <p align="center">
-  <strong>img-logger</strong>
+<strong>img-logger</strong>
 </p>
 
 <p align="center">
-  Hatalar İçin Discord Sunucumuza Gelebilirsiniz
+You can join our Discord server for bugs
 </p>
 
 <p align="center">
-  https://discord.com/invite/vsc
+https://discord.com/invite/vsc
 </p>
 
 <p align="center">
-  Botun Kurulumu ve Tanıtım Videosu
+Bot Setup and Introduction Video
 </p>
+
 <p align="center">
-  https://youtu.be/ulRvlTSaPK0
+https://youtu.be/ulRvlTSaPK0
 </p>
